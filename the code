@@ -1,0 +1,43 @@
+<div class="container">
+        <h class="main-heading">Lotusz Temple
+        <img src="https://assets.ccbp.in/frontend/static-website/lotus-temple-img.png" class="https://assets.ccbp.in/frontend/static-website/lotus-temple-img.png" />
+        <p class="place-name">Lotus Temple</p>
+        </h>
+    </div>
+
+    <div>
+        <h class="main-heading">Thiruvananthapuram
+        <img src="https://assets.ccbp.in/frontend/static-website/kerala-img.png" class="https://assets.ccbp.in/frontend/static-website/kerala-img.png" />
+        <p class="place-name">Thiruvananthapuram</p>
+        </h>
+    </div>
+
+    <div>
+         <h class="main-heading">Coimbatore
+        
+        <img src="https://assets.ccbp.in/frontend/static-website/coimbatore-img.png" class="https://assets.ccbp.in/frontend/static-website/coimbatore-img.png" />
+        <p class="place-name">Coimbatore</p>
+        </h>
+    </div>
+
+
+.container {
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+}
+
+.main-heading {
+    font-family: "Roboto";
+}
+
+.place-image {
+    width: 200px;
+    height: 200px;
+}
+
+.place-name {
+    font-size: 18px;
+    font-family: Roboto;
+    margin-top: 8px;
+}
